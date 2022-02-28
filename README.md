@@ -12,9 +12,13 @@ Video Link: https://sheridanc-my.sharepoint.com/:f:/g/personal/kaurgia_shernet_s
 
 New desirable functionalities:
 
-#1 Adding Push notification
-#2 Mapping important features
-#3 Provide recordings of virtual lectures
-#4 Adding calender functionalities
-#5 Add funds to student ID card
+1 Adding Push notification
+
+2 Mapping important features
+
+3 Provide recordings of virtual lectures
+
+4 Adding calender functionalities
+
+5 Add funds to student ID card
 
